@@ -1,3 +1,6 @@
 [submodule "daily-fe-git"]
 	path = daily-fe-git
 	url = https://github.com/zytxh/daily-fe-git.git
+[submodule "daily-fe-js"]
+	path = daily-fe-js
+	url = https://github.com/zytxh/daily-fe-js.git
