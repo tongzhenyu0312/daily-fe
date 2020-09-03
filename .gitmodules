@@ -4,3 +4,21 @@
 [submodule "daily-fe-js"]
 	path = daily-fe-js
 	url = https://github.com/zytxh/daily-fe-js.git
+[submodule "daily-fe-webpack"]
+	path = daily-fe-webpack
+	url = https://github.com/zytxh/daily-fe-webpack.git
+[submodule "daily-fe-test"]
+	path = daily-fe-test
+	url = https://github.com/zytxh/daily-fe-test.git
+[submodule "daily-fe-vue"]
+	path = daily-fe-vue
+	url = https://github.com/zytxh/daily-fe-vue.git
+[submodule "daily-fe-css"]
+	path = daily-fe-css
+	url = https://github.com/zytxh/daily-fe-css.git
+[submodule "daily-fe-node"]
+	path = daily-fe-node
+	url = https://github.com/zytxh/daily-fe-node.git
+[submodule "daily-fe-article"]
+	path = daily-fe-article
+	url = https://github.com/zytxh/daily-fe-article.git
